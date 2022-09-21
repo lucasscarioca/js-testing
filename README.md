@@ -1,0 +1,2 @@
+# JavaScript Unit Testing - The Practical Guide
+Studying Unit Tests in JS with [JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
